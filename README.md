@@ -24,7 +24,7 @@ Di conseguenza per l’utente non ancora registrato il requisito sarà la regist
 - PORTAFOGLIO: l'utente ricarica il credito da utilizzare per i noleggi.
 
 
-# UTENTE MANUTENTORE:
+### UTENTE MANUTENTORE:
 - ACCESSO. L’utente accede al sistema tramite una schermata che gli permette di inserire le sue credenziali con cui si è precedentemente registrato.
 - GEOLOZALIZZAZIONE SU MAPPA. L’utente una volta registrato, potrà vedere la sua posizione sulla mappa.
 - TROVA MONOPATTINO. L’utente potrà visualizzare sulla mappa la posizione dei monopattini.
