@@ -4,18 +4,18 @@ PROGETTO SMS – APP NOLEGGIO MONOPATTINI
 
 Il sistema è diviso in due componenti: la componente app che va installata su smartphone e la componente monopattino, per cui abbiamo pensato di sviluppare due applicazioni. L’app monopattino servirà per simulare le funzionalità del mezzo. Di seguito indicheremo le funzionalità divise per app.
 
-# APP SMARTPHONE
+## APP SMARTPHONE
 Questa è l’applicazione che va installata da parte dell’utente sul proprio smartphone.
 Abbiamo pensato che ci possano essere due tipi di utenti:
 - Utente FRUITORE, è colui che utilizza il servizio di noleggio del monopattino;
 - Utente MANUTENTORE, è colui che si occupa della manutenzione ordinaria dei monopattini, e che utilizzerà la medesima app per scopi diversi dal FRUITORE.
 
-# UTENTE NON REGISTRATO:
+### UTENTE NON REGISTRATO:
 L’utente non registrato al sistema può, una volta installata l’app sul proprio dispositivo REGISTRARSI al sistema con un indirizzo di posta elettronica e indicando i suoi dati anagrafici nel caso in cui è un Utente di tipo FRUITORE.
 Nel caso in cui egli sia un Utente Manutentore, abbiamo ipotizzato che le credenziali di accesso gli saranno fornite direttamente dall’azienda che gestisce il servizio noleggi, per cui per lui non è prevista una registrazione in-app.
 Di conseguenza per l’utente non ancora registrato il requisito sarà la registrazione.
 
-# UTENTE FRUITORE:
+### UTENTE FRUITORE:
 - ACCESSO. L’utente accede al sistema tramite una schermata che gli permette di inserire le sue credenziali con cui si è precedentemente registrato.
 - GEOLOZALIZZAZIONE SU MAPPA. L’utente una volta registrato, potrà vedere la sua posizione sulla mappa.
 - TROVA MONOPATTINO. L’utente potrà visualizzare sulla mappa la posizione dei monopattini.
@@ -35,5 +35,5 @@ NB: abbiamo pensato che l’utente FRUITORE non debba occuparsi della ricarica d
 
 
 
-# APP MONOPATTINO
+## APP MONOPATTINO
 La componente monopattino serve solo per geolocalizzare il mezzo e per interagire con la componente smartphone per il blocco e lo sblocco del mezzo.
